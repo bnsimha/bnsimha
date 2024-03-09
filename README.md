@@ -1,5 +1,5 @@
 - Hi, I’m @bnsimha
-- I’m interested in Algorithms.
+- I’m interested in Algorithms, Multimedia systems, computer vision and NLP
 - 🌱 I’m currently learning data structures in Java. 
 - 📫 Reach me on bnsimha7@gmail.com 
 
